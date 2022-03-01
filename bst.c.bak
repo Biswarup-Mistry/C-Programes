@@ -1,0 +1,11 @@
+//BST using C language
+
+#include<stdio.h>
+#include<conio.h>
+
+int main(){
+	printf("BST :\nEnter the total no. of nodes present in the tree :\n");
+	
+	
+	return 0;
+}
